@@ -20,10 +20,12 @@ body {
     font-size: 48px;
 }
 
+/*the logo is just off white for the letters seo in horiseon */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* following header class definitions are for the navigation list of items */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* class definition for the background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -68,6 +71,7 @@ p {
     margin-left: 25px;
 }
 
+/* the following class defs are for how the main contentis rendered*/
 .content {
     width: 75%;
     display: inline-block;
@@ -91,6 +95,7 @@ p {
     font-size: 36px;
 }
 
+/* the following defs are for the rhs benefits section rendering*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
